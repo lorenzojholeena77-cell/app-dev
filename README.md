@@ -8,7 +8,5 @@ Here's a sentence with a footnote.
 
 ~~The world is flat.~~
 
-That is so funny! 😂
-
-My favorite series is ==Ao Haru Ride==.
+My favorite series is Ao Haru Ride 💙
 Specifically, this is an ~~anime series~~.
