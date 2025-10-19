@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 
-Favorite series/movies:
+**Favorite series/movies:**
 [^1]
 
 [^1]: End of list.
@@ -11,9 +11,9 @@ Favorite series/movies:
   lastName: Lorenzo
   age: 22
 ```
-Ao Haru Ride 
-Kimi ni Todoke
-One punch man
-One piece
-Made in abyss
+1. Ao Haru Ride 
+2. Kimi ni Todoke
+3. One punch man
+4. One piece
+5. Made in abyss
 
