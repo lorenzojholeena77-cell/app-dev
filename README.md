@@ -4,12 +4,12 @@ My first repository
 **Favorite series/movies:**
 [^1]
 
-[^1]: End of list.
+[^1]: Jholeena Chrissa R. Lorenzo
 
 ```
-  firstName: Jholeena
-  lastName: Lorenzo
-  age: 22
+  First Name: Jholeena
+  Last Name: Lorenzo
+  Age: 22
 ```
 1. Ao Haru Ride 
 2. Kimi ni Todoke
