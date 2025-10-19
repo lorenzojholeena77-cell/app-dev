@@ -1,12 +1,18 @@
 # app-dev
 My first repository
 
-Here's a sentence with a footnote.
+Favorite series/movies:
 [^1]
 
-[^1]: This is the footnote.
+[^1]: End of list.
 
-~~The world is flat.~~
+Ao Haru Ride 💙
+==One punch man==
 
-My favorite series is Ao Haru Ride 💙
-Specifically, this is an ~~anime series~~.
+```
+{
+  "firstName": "Jholeena",
+  "lastName": "Lorenzo",
+  "age": 22
+}
+```
