@@ -10,9 +10,7 @@ Ao Haru Ride 💙
 ==One punch man==
 
 ```
-{
   firstName: Jholeena
   lastName: Lorenzo
   age: 22
-}
 ```
