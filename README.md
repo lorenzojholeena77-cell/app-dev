@@ -11,8 +11,8 @@ Ao Haru Ride 💙
 
 ```
 {
-  "firstName": "Jholeena",
-  "lastName": "Lorenzo",
-  "age": 22
+  firstName: Jholeena
+  lastName: Lorenzo
+  age: 22
 }
 ```
